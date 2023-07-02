@@ -6,9 +6,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
 import project1 from "../../public/images/projects/hadith.png"
-import project2 from "../../public/images/projects/Capture2.PNG"
+import project2 from "../../public/images/projects/Capture2.png"
 import project3 from "../../public/images/projects/NURR456.jpg"
-import project4 from "../../public/images/projects/Capture.PNG"
+import project4 from "../../public/images/projects/Capture.png"
 import project5 from "../../public/images/projects/nft-collection-website-cover-image.jpg"
 import project6 from "../../public/images/projects/sahiiih.png"
 import project7 from "../../public/images/projects/fashion-studio-website.jpg"
