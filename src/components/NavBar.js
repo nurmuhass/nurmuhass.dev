@@ -116,7 +116,7 @@ const handleClick = () =>{
     <motion.a href="/" target={"_blank"} whileHover={{y:-2}} whileTap={{scale:0.9}} className='w-6 mx-3 sm:mx-1'>
         <GithubIcon/></motion.a>
     <motion.a href="/" target={"_blank"} whileHover={{y:-2}} whileTap={{scale:0.9}} className='w-6 mx-3 sm:mx-1'><LinkedInIcon/></motion.a>
-    <motion.a href="/" target={"_blank"} whileHover={{y:-2}} whileTap={{scale:0.9}} className='w-6 ml-3 sm:mx-1'><DribbbleIcon/></motion.a>
+    <motion.a href="https://api.whatsapp.com/send?phone=2348063466463" target={"_blank"} whileHover={{y:-2}} whileTap={{scale:0.9}} className='w-6 ml-3'><Whatsapp/></motion.a>
     <button className={`ml-3 items-center flex justify-center rounded-full p-1 ${mode === "light" ? "bg-dark text-light" : "bg-light text-dark"}`} onClick={() => setMode(mode === "light" ? "dark" : "light")}>
 {
   mode === "dark" ?
