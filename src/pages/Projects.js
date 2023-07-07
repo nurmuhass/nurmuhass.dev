@@ -112,8 +112,8 @@ const Projects = () => {
         </div>
 
    <div className='col-span-12'>
-          <FeaturedProject img={project14} title="A Professional Admin Panel" summary="A Professional Admin Dashboard that can be connected to any frontend using Readymate API.The Platform is developed using Next13,Prisma, Cloudinary,Clert authentication" link="https://play.google.com/store/apps/details?id=com.andromo.dev703439.app991171&hl=en&gl=US" 
-        github="https://admin-panel-mu-silk.vercel.app/c52b944a-c1b7-4374-86a3-d44226623563" type="Featured Project"/>
+          <FeaturedProject img={project14} title="A Professional Admin Panel" summary="A Professional Admin Dashboard that can be connected to any frontend using Readymate API.The Platform is developed using Next13,Prisma, Cloudinary,Clert authentication" link="https://admin-panel-mu-silk.vercel.app/c52b944a-c1b7-4374-86a3-d44226623563" 
+        github="" type="Featured Project"/>
 
 
         </div>
