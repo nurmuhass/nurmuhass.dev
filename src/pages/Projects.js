@@ -12,6 +12,7 @@ import project4 from "../../public/images/projects/kasuwa.jpg"
 import project5 from "../../public/images/projects/nft-collection-website-cover-image.jpg"
 import project6 from "../../public/images/projects/sahiiih.png"
 import project7 from "../../public/images/projects/fashion-studio-website.jpg"
+import project14 from "../../public/images/projects/admin.jpg"
 
 import project8 from "../../public/images/projects/cryptocurrency-app.png"
 import project9 from "../../public/images/projects/e-commerce-app.png"
@@ -111,7 +112,8 @@ const Projects = () => {
         </div>
 
    <div className='col-span-12'>
-          <FeaturedProject img={project14} title="A Professional Admin Panel" summary="A Professional Admin Dashboard that can be connected to any frontend using Readymate API.The Platform is developed using Next13,Prisma, Cloudinary,Clert authentication" link="https://play.google.com/store/apps/details?id=com.andromo.dev703439.app991171&hl=en&gl=US" github="/" type="Featured Project"/>
+          <FeaturedProject img={project14} title="A Professional Admin Panel" summary="A Professional Admin Dashboard that can be connected to any frontend using Readymate API.The Platform is developed using Next13,Prisma, Cloudinary,Clert authentication" link="https://play.google.com/store/apps/details?id=com.andromo.dev703439.app991171&hl=en&gl=US" 
+        github="https://admin-panel-mu-silk.vercel.app/c52b944a-c1b7-4374-86a3-d44226623563" type="Featured Project"/>
 
 
         </div>
