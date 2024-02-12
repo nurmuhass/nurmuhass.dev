@@ -154,10 +154,6 @@ const Projects = () => {
 
 
         <div className='col-span-6 sm:col-span-12'>
-        <Project img={project8} title="A Crypto Currency Mining App"  link="https://play.google.com/store/apps/" github="/" type="Personal Project"/>
-
-        </div>
-        <div className='col-span-6 sm:col-span-12'>
         <Project img={project9} title="An Online E-commerse App" link="https://play.google.com/store/apps/" github="/" type="Personal Project"/>
 
         </div>
