@@ -177,10 +177,7 @@ const Projects = () => {
         <Project img={project12} title="An Online Learning App"  link="https://play.google.com/store/apps/" github="/" type="Personal  Project"/>
 
         </div>
-        <div className='col-span-6 sm:col-span-12'>
-        <Project img={project13} title="A Crypto wallet app" link="https://play.google.com/store/apps/" github="/" type="Personal Project"/>
-
-        </div>
+     
 
 
     </div>
