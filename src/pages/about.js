@@ -55,7 +55,7 @@ const about = () => {
             <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light'>About Me</h2>
             <p className='font-medium'>
             Hi, I am Nurmuhass, a web developer and Mobile App developer with a passion for creating Fullstack beautiful, functional, 
-and user-centered digital experiences. With 5 years of experience in the field. I am always looking for 
+and user-centered digital experiences. With 6 years of experience in the field. I am always looking for 
 new and innovative ways to bring my clients visions to life.
             </p>
 
