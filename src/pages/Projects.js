@@ -8,6 +8,7 @@ import React from 'react'
 import project1 from "../../public/images/projects/hadith.png"
 import project2 from "../../public/images/projects/unimaid.jpg"
 import project3 from "../../public/images/projects/NURR456.jpg"
+import project14 from "../../public/images/projects/screenshot7.jpeg"
 import project4 from "../../public/images/projects/kasuwa.jpg"
 import project5 from "../../public/images/projects/nft-collection-website-cover-image.jpg"
 import project6 from "../../public/images/projects/sahiiih.png"
@@ -105,10 +106,12 @@ const Projects = () => {
 
     <div className='grid grid-cols-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0'>
         <div className='col-span-12'>
+          <FeaturedProject img={project14} title="Muhass Consult" summary="Muhass Consult is a user-friendly and secure consultancy application that connects patients with doctors from various locations" link="https://nurmuhass.github.io/muhassConsult_landingPage/" github="/" type="Featured Project"/>
+        </div>
+
+          <div className='col-span-12'>
           <FeaturedProject img={project1} title="40 Hadith Nawawi" summary="An offline audio streaming app with over 12,000 downloads and over 100 five star ratings and
            perfect reviews,click the visit button to chect for your self." link="https://play.google.com/store/apps/details?id=com.andromo.dev703439.app991171&hl=en&gl=US" github="/" type="Featured Project"/>
-
-
         </div>
 
    <div className='col-span-12'>
