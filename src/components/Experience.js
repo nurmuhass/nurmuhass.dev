@@ -77,12 +77,12 @@ work="•	Proficient in both front-end and back-end development.
 
 <Details
             
-            position="ITF STAFF" company="Power  Holding  Company  Nigeria (PHCN) Maiduguri" 
-            time="May 2017- October 2017" companyLink="www.goggle.com" address="Bolori Layout Maiduguri" 
-            work="•	Investigated and resolved complex technical issues.
-            •	Implemented and administered technical solutions.
-            •	Provided technical support and training to users
-            •	Developed and maintained technical documentation
+            position="ADHOC STAFF" company="Police Health Maintenance Limited " 
+            time="June 2023 - Till Date" companyLink="https://www.phmlnigeria.com/" address="Jabi ,FCT Abuja " 
+            work="•	Collaborated with cross-functional teams to design and develop custom applications to meet specific business needs.
+            •	Led the successful deployment of  Register Conversion Application. 
+            •	Provided efficient IT support to end-users, resolving hardware and software issues promptly.
+            •	Managed and maintained the organization's IT infrastructure, ensuring seamless operations.
             "
             
                         />
