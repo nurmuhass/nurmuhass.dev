@@ -8,7 +8,7 @@ import React from 'react'
 import project1 from "../../public/images/projects/hadith.png"
 import project2 from "../../public/images/projects/unimaid.jpg"
 import project3 from "../../public/images/projects/NURR456.jpg"
-import project15 from "../../public/images/projects/screenshot7.jpeg"
+import project15 from "../../public/images/projects/muhassconsult.png"
 import project4 from "../../public/images/projects/kasuwa.jpg"
 import project5 from "../../public/images/projects/nft-collection-website-cover-image.jpg"
 import project6 from "../../public/images/projects/sahiiih.png"
