@@ -9,6 +9,7 @@ import project1 from "../../public/images/projects/hadith.png"
 import project2 from "../../public/images/projects/unimaid.jpg"
 import project3 from "../../public/images/projects/NURR456.jpg"
 import project15 from "../../public/images/projects/muhassconsult.png"
+import project16 from "../../public/images/projects/muhassconsult1.png"
 import project4 from "../../public/images/projects/kasuwa.jpg"
 import project5 from "../../public/images/projects/nft-collection-website-cover-image.jpg"
 import project6 from "../../public/images/projects/sahiiih.png"
@@ -106,7 +107,7 @@ const Projects = () => {
 
     <div className='grid grid-cols-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0'>
         <div className='col-span-12'>
-          <FeaturedProject img={project15} title="Muhass Consult" summary="Muhass Consult is a user-friendly and secure consultancy application that connects patients with doctors from various locations" link="https://nurmuhass.github.io/muhassConsult_landingPage/" github="/" type="Featured Project"/>
+          <FeaturedProject img={project16} title="Muhass Consult" summary="Muhass Consult is a user-friendly and secure consultancy application that connects patients with doctors from various locations" link="https://nurmuhass.github.io/muhassConsult_landingPage/" github="/" type="Featured Project"/>
         </div>
 
           <div className='col-span-12'>
