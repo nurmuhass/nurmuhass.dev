@@ -77,8 +77,9 @@ work="•	Proficient in both front-end and back-end development.
 
 <Details
             
-            position="ADHOC STAFF" company="Police Health Maintenance Limited " 
-            time="June 2023 - Till Date" companyLink="https://www.phmlnigeria.com/" address="Jabi ,FCT Abuja " 
+            position="OFFICER II" company="Police Health Maintenance Limited " 
+            time="" 
+               companyLink="https://www.phmlnigeria.com/" address="Jabi ,FCT Abuja " 
             work="•	Collaborated with cross-functional teams to design and develop custom applications to meet specific business needs.
             •	Led the successful deployment of  Register Conversion Application. 
             •	Provided efficient IT support to end-users, resolving hardware and software issues promptly.
