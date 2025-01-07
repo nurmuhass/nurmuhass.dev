@@ -15,6 +15,10 @@ import project5 from "../../public/images/projects/nft-collection-website-cover-
 import project6 from "../../public/images/projects/sahiiih.png"
 import project7 from "../../public/images/projects/fashion-studio-website.jpg"
 import project14 from "../../public/images/projects/admin.jpg"
+import project15 from "../../public/images/projects/CEPS.png"
+import project16 from "../../public/images/projects/CONSULT.png"
+import project17 from "../../public/images/projects/EASYLOAD.png"
+import project18 from "../../public/images/projects/MTC.png"
 
 import project8 from "../../public/images/projects/cryptocurrency-app.png"
 import project9 from "../../public/images/projects/e-commerce-app.png"
@@ -111,8 +115,7 @@ const Projects = () => {
         </div>
 
           <div className='col-span-12'>
-          <FeaturedProject img={project1} title="40 Hadith Nawawi" summary="An offline audio streaming app with over 12,000 downloads and over 100 five star ratings and
-           perfect reviews,click the visit button to chect for your self." link="https://play.google.com/store/apps/details?id=com.andromo.dev703439.app991171&hl=en&gl=US" github="/" type="Featured Project"/>
+          <FeaturedProject img={project15} title="Citizen Engagement Platform System" summary="Citizen Engagement Platform System is a platfrom where citizens reports incidence and reports from their local communities to the government " link="https://play.google.com/store/apps/details?id=com.andromo.dev703439.app991171&hl=en&gl=US" github="/" type="Featured Project"/>
         </div>
 
    <div className='col-span-12'>
@@ -150,6 +153,12 @@ const Projects = () => {
 
         </div>
 
+ <div className='col-span-12 sm:col-span-12'>
+        <FeaturedProject img={project18} title="A crossplatform market place" summary="University of maiduguri main website developed
+         for the university to depicts the image of the school." link="https://unimaid.edu.ng/About-US.php" github="/" type="Featured Project"/>
+
+  </div>
+            
         <div className='col-span-12 sm:col-span-12'>
         <FeaturedProject img={project2} title="A University Website" summary="University of maiduguri main website developed
          for the university to depicts the image of the school." link="https://unimaid.edu.ng/About-US.php" github="/" type="Featured Project"/>
@@ -169,12 +178,12 @@ const Projects = () => {
 
         </div>
         <div className='col-span-6 sm:col-span-12'>
-        <Project img={project11} title="A Complete Food Recipe App" link="https://play.google.com/store/apps/" github="/" type="Personal Project"/>
+        <Project img={project17} title="A one Time stop VTU website" link="https://play.google.com/store/apps/" github="/" type="Web and Mobile App"/>
 
         </div>
 
         <div className='col-span-6 sm:col-span-12'>
-        <Project img={project12} title="An Online Learning App"  link="https://play.google.com/store/apps/" github="/" type="Personal  Project"/>
+        <Project img={project1} title="40 Hadith Nawawi"  link="https://play.google.com/store/apps/" github="/" type="Andriod application"/>
 
         </div>
      
