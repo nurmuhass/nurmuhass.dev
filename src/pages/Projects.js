@@ -112,15 +112,15 @@ const Projects = () => {
 
     <div className='grid grid-cols-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0'>
         <div className='col-span-12'>
-          <FeaturedProject img={project19} title="InsightHub" summary="A one stop shop for instant recharge of Airtime, Data, TV & Electricity bill payments, WAEC & NECO PIN, Airtime 2 Cash" link="https://play.google.com/store/apps/details?id=com.InsightHub.app" github="/" type="Featured Project"/>
+          <FeaturedProject img={project19} title="InsightHub" summary="A one stop shop for instant recharge of Airtime, Data, TV & Electricity bill payments, WAEC & NECO PIN, Airtime 2 Cash" link="https://play.google.com/store/apps/details?id=com.InsightHub.app" github="#" type="Featured Project"/>
         </div>
 
          <div className='col-span-12'>
-          <FeaturedProject img={project16} title="Muhass Consult" summary="Muhass Consult is a user-friendly and secure consultancy application that connects patients with doctors from various locations" link="https://nurmuhass.github.io/muhassConsult_landingPage/" github="/" type="Featured Project"/>
+          <FeaturedProject img={project16} title="Muhass Consult" summary="Muhass Consult is a user-friendly and secure consultancy application that connects patients with doctors from various locations" link="https://github.com/nurmuhass/MuhassConsult.git" github="https://github.com/nurmuhass/MuhassConsult.git" type="Featured Project"/>
         </div>
 
           <div className='col-span-12'>
-          <FeaturedProject img={project15} title="Citizen Engagement Platform System" summary="Citizen Engagement Platform System is a platfrom where citizens reports incidence and reports from their local communities to the government " link="https://play.google.com/store/apps/details?id=com.andromo.dev703439.app991171&hl=en&gl=US" github="/" type="Featured Project"/>
+          <FeaturedProject img={project15} title="Citizen Engagement Platform System" summary="Citizen Engagement Platform System is a platfrom where citizens reports incidence and reports from their local communities to the government " link="https://github.com/nurmuhass/CEPS.git" github="https://github.com/nurmuhass/CEPS.git" type="Featured Project"/>
         </div>
 
    <div className='col-span-12'>
