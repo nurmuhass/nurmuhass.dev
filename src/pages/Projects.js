@@ -159,13 +159,13 @@ const Projects = () => {
             
         <div className='col-span-12 sm:col-span-12'>
         <FeaturedProject img={project2} title="A University Website" summary="University of maiduguri main website developed
-         for the university to depicts the image of the school." link="https://unimaid.edu.ng/About-US.php" github="/" type="Featured Project"/>
+         for the university to depicts the image of the school." link="https://unimaid.edu.ng" github="/" type="Featured Project"/>
 
         </div>
 
 
         <div className='col-span-6 sm:col-span-12'>
-        <Project img={project9} title="An Online E-commerse App" link="https://play.google.com/store/apps/" github="/" type="Personal Project"/>
+        <Project img={project9} title="An Online E-commerse App" link="https://github.com/nurmuhass/MTC.git" github="https://github.com/nurmuhass/MTC.git" type="Personal Project"/>
 
         </div>
 
