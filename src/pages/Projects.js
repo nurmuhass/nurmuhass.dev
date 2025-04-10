@@ -19,6 +19,7 @@ import project15 from "../../public/images/projects/CEPS.png"
 import project16 from "../../public/images/projects/CONSULT.png"
 import project17 from "../../public/images/projects/EASYLOAD.png"
 import project18 from "../../public/images/projects/MTC.png"
+import project19 from "../../public/images/projects/insighthub.png"
 
 import project8 from "../../public/images/projects/cryptocurrency-app.png"
 import project9 from "../../public/images/projects/e-commerce-app.png"
@@ -111,6 +112,10 @@ const Projects = () => {
 
     <div className='grid grid-cols-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0'>
         <div className='col-span-12'>
+          <FeaturedProject img={project19} title="InsightHub" summary="A one stop shop for instant recharge of Airtime, Data, TV & Electricity bill payments, WAEC & NECO PIN, Airtime 2 Cash" link="https://play.google.com/store/apps/details?id=com.InsightHub.app" github="/" type="Featured Project"/>
+        </div>
+
+         <div className='col-span-12'>
           <FeaturedProject img={project16} title="Muhass Consult" summary="Muhass Consult is a user-friendly and secure consultancy application that connects patients with doctors from various locations" link="https://nurmuhass.github.io/muhassConsult_landingPage/" github="/" type="Featured Project"/>
         </div>
 
