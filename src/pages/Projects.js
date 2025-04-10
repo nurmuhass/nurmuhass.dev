@@ -153,7 +153,7 @@ const Projects = () => {
 
  <div className='col-span-12 sm:col-span-12'>
         <FeaturedProject img={project18} title="A crossplatform market place" summary="University of maiduguri main website developed
-         for the university to depicts the image of the school." link="https://unimaid.edu.ng/About-US.php" github="/" type="Featured Project"/>
+         for the university to depicts the image of the school." link="https://github.com/nurmuhass/MTC.git" github="https://github.com/nurmuhass/MTC.git" type="Featured Project"/>
 
   </div>
             
