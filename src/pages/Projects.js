@@ -130,14 +130,14 @@ const Projects = () => {
 
         </div>
         
-        <div className='col-span-6 sm:col-span-12'>
-        <Project img={project3} title="A Facebook Clone For University Of Maiduguri" link="" github="/" type="Featured Project"/>
+        // <div className='col-span-6 sm:col-span-12'>
+        // <Project img={project3} title="A Facebook Clone For University Of Maiduguri" link="" github="/" type="Featured Project"/>
 
-        </div>
-        <div className='col-span-6 sm:col-span-12'>
-        <Project img={project5} title="An NFT Collection Website Landing page "link="https://the-weirdos.netlify.app/" github="/" type="Featured Project"/>
+        // </div>
+        // <div className='col-span-6 sm:col-span-12'>
+        // <Project img={project5} title="An NFT Collection Website Landing page "link="https://the-weirdos.netlify.app/" github="/" type="Featured Project"/>
 
-        </div>
+        // </div>
 
 
 
