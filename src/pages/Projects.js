@@ -176,7 +176,7 @@ const Projects = () => {
 
         </div>
         <div className='col-span-6 sm:col-span-12'>
-        <Project img={project17} title="A one Time stop VTU website" link="https://easyloadvtu.com.ng" github="#" type="Web and Mobile App"/>
+        <Project img={project17} title="A one Time stop VTU website" link="https://easyloadvtu.com.ng" github="/" type="Web and Mobile App"/>
 
         </div>
 
