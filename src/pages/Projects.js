@@ -187,7 +187,7 @@ const Projects = () => {
             <div className="col-span-12">
               <FeaturedProject
                 img={project20}
-                title="Nestify"
+                title="MyNestify"
                 summary="
 Nestify is a property journey platform in Nigeria designed to help users find,
  connect, and manage real estate ownership. Unlike traditional listing websites,
