@@ -21,7 +21,6 @@ import project17 from "../../public/images/projects/EASYLOAD.png";
 import project18 from "../../public/images/projects/MTC.png";
 import project19 from "../../public/images/projects/insighthub.png";
 import project20 from "../../public/images/projects/nestify.png";
-
 import project8 from "../../public/images/projects/cryptocurrency-app.png";
 import project9 from "../../public/images/projects/e-commerce-app.png";
 import project10 from "../../public/images/projects/fooddelivery.jpg";
